@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysrocess",
+        "uuid": 15443760,
+        "checksum": "z2ry3q"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
